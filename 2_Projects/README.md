@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-In React Native projects, manage the bridge or use JSI/New Architecture to ensure smooth animations and layouts.
+Focus on offline-first functionality, local data persistence, and battery-efficient background operations.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 

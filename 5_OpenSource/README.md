@@ -4,7 +4,7 @@
 
 Engage in community discussions to keep up with the fast-evolving Expo and React Native ecosystems.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 

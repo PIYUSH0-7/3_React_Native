@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Write short UI components or custom hooks daily to master mobile-friendly interactions and gestures.
+Test small layout patterns on different device simulators daily to ensure responsiveness.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 

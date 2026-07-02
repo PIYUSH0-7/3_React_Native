@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Design mobile architectures considering local database sync (e.g., WatermelonDB, Realm) and push messaging protocols.
+Consider offline storage, sync conflicts, delta updates, and file cache invalidation in mobile system design.
 
 *Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
