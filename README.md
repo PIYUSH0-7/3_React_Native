@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Use native UI components and drivers for animations whenever possible to ensure responsiveness.
+Building performant React Native applications requires a delicate balance of JavaScript flexibility and native module optimization, understanding where to abstract and where to dive into platform-specific code.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Always profile your React Native app's performance on a physical device, not just the simulator, to catch real-world bottlenecks.
 
 <!-- THOUGHT_END -->
 

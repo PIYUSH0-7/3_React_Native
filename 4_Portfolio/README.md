@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Explain how you resolved cross-platform styling issues and optimized asset sizes.
+Your React Native portfolio should visually demonstrate fluid user experiences and technically articulate the solutions to cross-platform challenges, performance optimizations, and integration with device capabilities.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Include short video demos in your React Native portfolio showcasing smooth animations, complex gestures, and native feature integrations.
 
 <!-- THOUGHT_END -->
 

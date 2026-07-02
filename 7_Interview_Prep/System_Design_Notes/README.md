@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Consider offline storage, sync conflicts, delta updates, and file cache invalidation in mobile system design.
+React Native system design notes should meticulously detail how you architect for mobile constraints, focusing on efficient data synchronization, offline capabilities, push notifications, and robust security for user data.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Outline a system design for a React Native application that requires real-time data sync, considering both local database and cloud backend integration.
 
 <!-- THOUGHT_END -->
 

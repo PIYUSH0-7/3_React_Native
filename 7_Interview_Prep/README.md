@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Master mobile-specific interview questions on lifecycle methods, state persistence, and native bridges.
+React Native interview preparation demands a nuanced understanding of mobile development challenges, including performance optimization, native module interaction, and cross-platform consistency.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Practice explaining the advantages and disadvantages of using a managed workflow (Expo) versus a bare workflow in React Native for different project types.
 
 <!-- THOUGHT_END -->
 
