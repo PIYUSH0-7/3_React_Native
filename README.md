@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Building performant React Native applications requires a delicate balance of JavaScript flexibility and native module optimization, understanding where to abstract and where to dive into platform-specific code.
+Keep bundle sizes small, load assets lazily, and avoid deep nesting of layouts to maintain a 60 FPS user experience.
 
-*Daily Insight:* Always profile your React Native app's performance on a physical device, not just the simulator, to catch real-world bottlenecks.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
