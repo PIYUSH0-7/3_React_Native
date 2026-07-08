@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-React Native delivers a native feel with React's developer experience, but optimizing the JavaScript-native boundary is key.
+Keep bundle sizes small, load assets lazily, and avoid deep nesting of layouts to maintain a 60 FPS user experience.
 
-*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
+*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
 
 <!-- THOUGHT_END -->
 
