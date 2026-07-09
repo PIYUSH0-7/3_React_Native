@@ -4,7 +4,7 @@
 
 Keep bundle sizes small, load assets lazily, and avoid deep nesting of layouts to maintain a 60 FPS user experience.
 
-*Daily Insight:* Focus on reducing algorithmic complexity and optimizing critical paths.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
