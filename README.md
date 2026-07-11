@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Use native UI components and drivers for animations whenever possible to ensure responsiveness.
+React Native delivers a native feel with React's developer experience, but optimizing the JavaScript-native boundary is key.
 
-*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
+*Daily Insight:* Ensure clear, self-documenting code style with meaningful variable naming.
 
 <!-- THOUGHT_END -->
 
