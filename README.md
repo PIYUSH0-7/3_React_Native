@@ -4,7 +4,7 @@
 
 Keep bundle sizes small, load assets lazily, and avoid deep nesting of layouts to maintain a 60 FPS user experience.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
