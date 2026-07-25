@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-Keep bundle sizes small, load assets lazily, and avoid deep nesting of layouts to maintain a 60 FPS user experience.
+Use native UI components and drivers for animations whenever possible to ensure responsiveness.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
