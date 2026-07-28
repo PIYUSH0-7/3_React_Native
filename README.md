@@ -4,7 +4,7 @@
 
 React Native delivers a native feel with React's developer experience, but optimizing the JavaScript-native boundary is key.
 
-*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
