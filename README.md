@@ -4,7 +4,7 @@
 
 Use native UI components and drivers for animations whenever possible to ensure responsiveness.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
 <!-- THOUGHT_END -->
 
